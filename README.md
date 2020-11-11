@@ -1,2 +1,2 @@
-# newbee-mall-vue-app
+# newbee-vue-app
 新蜂商城
